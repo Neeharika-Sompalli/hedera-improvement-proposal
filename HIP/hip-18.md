@@ -3,7 +3,7 @@
 - author: Cooper Kunz <cooper@calaxy.com>, Rahul Kothari <rahul.kothari.201@gmail.com>
 - type: Standards Track
 - category: Service
-- status: Draft
+- status: Final
 - created: 2021-04-30
 - discussions-to: https://github.com/hashgraph/hedera-improvement-proposal/discussions/92
 - updated: 2021-05-18
